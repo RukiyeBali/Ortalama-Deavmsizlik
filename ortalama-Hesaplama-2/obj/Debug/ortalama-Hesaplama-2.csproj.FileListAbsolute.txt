@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\bin\Debug\ortalama-Hesaplama-2.exe.config
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\bin\Debug\ortalama-Hesaplama-2.exe
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\bin\Debug\ortalama-Hesaplama-2.pdb
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama-Hesaplama-2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama-Hesaplama-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama_Hesaplama_2.Form1.resources
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama_Hesaplama_2.Properties.Resources.resources
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama-Hesaplama-2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama-Hesaplama-2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama-Hesaplama-2.exe
+C:\Users\User\source\repos\ortalama-Hesaplama-2\ortalama-Hesaplama-2\obj\Debug\ortalama-Hesaplama-2.pdb
